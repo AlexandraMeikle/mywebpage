@@ -4,14 +4,18 @@ output_dir: "docs"
 output:  
   html_document:  
     self_contained: no  
-    theme: flatly  
+    theme: flatly
+    css: style.css 
 navbar:  
   title: "Alexandra Meikle" 
   type: inverse
-  left:
+  right:
     - text: "About"
-      icon: fa-info
       href: index.html
-    - text: "Research Interests"
+    - text: "Current Research Interests"
       href: research.html
+    - text: "Previous Research Experience"
+      href: previous_research.html
+    - text: "Contact Me"
+      href: contact.html
 

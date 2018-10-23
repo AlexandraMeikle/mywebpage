@@ -1,11 +1,8 @@
----
-title: "Research Interests"
----
+<br>
+<br>
+
 
 ### Student Mental Health
 
 I am currently involved in a project evaluating the Peer Support service ran within the University of Glasgow's Counselling and Psychological services. The student-led service aims to provide support for peers with mild mental health issues. I will be involved in the initial stages of a mixed-method investigation to collect the experiences of those involved with the service, and use this to facilitate and inform the upcoming expansion of the program.
 
-### Sleep and Circadian Timing
-
-For my final year prohject I conducted an experiment examining the effect of exposure to dim light at night on the activity-rest cycles of mice. 
