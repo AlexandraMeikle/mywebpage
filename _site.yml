@@ -4,11 +4,10 @@ output_dir: "docs"
 output:  
   html_document:  
     self_contained: no  
-    theme: flatly
 navbar:  
   title: "Alexandra Meikle" 
   type: inverse
-  left:
+  right:
     - text: "About"
       href: index.html
     - text: "Research"
