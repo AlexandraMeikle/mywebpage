@@ -8,13 +8,23 @@ output:
 navbar:  
   title: "Alexandra Meikle" 
   type: inverse
-  right:
+  left:
     - text: "About"
       href: index.html
-    - text: "Current Research Interests"
-      href: research.html
-    - text: "Previous Research Experience"
-      href: previous_research.html
+    - text: "Research"
+      menu:
+        - text: "Current Research Interests"
+          href: current_research.html
+        - text: "Previous Research Experience"
+          href: previous_research.html
+        - text: "Talks and Posters"
+          href: talks.html
+        - text: "Awards"
+          href: awards.html
     - text: "Contact Me"
       href: contact.html
+
+
+  
+      
 

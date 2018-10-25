@@ -3,9 +3,9 @@
 
 ### Contact Information
 
-    Room 101
-    58 Hillhead Street
-    Glasgow
-    G12 8QB
-    Telephone	+44 (0)141 330 ----
-    Email 2133759m@student.gla.ac.uk
+Room 101<br>
+58 Hillhead Street<br>
+Glasgow <br>
+G12 8QB <br>
+Telephone	+44 (0)141 330 ---- <br>
+Email 2133759m@student.gla.ac.uk
