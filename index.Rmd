@@ -2,7 +2,7 @@
 <br>
 <img style="float: right; margin: 0px 0px 25px 25px;" src="Phot\gradphoto1.jpg">
 
-## Alexandra Meikle
+## Alexandra Meikle 
 
 <br>
 
@@ -14,9 +14,9 @@
 
 
 <br>
-I am a postgraduate student in the University of Glasgow's
-[Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/). I graduated from the University of Glasgow in 2018 with an M.A. in Psychology (with Honours of the First Class). I am currently working towards an M.Sc. in Research Methods of Psychological Science, supervised by [Professor Stephany Biello](https://www.gla.ac.uk/schools/psychology/staff/stephanybiello/).
 
+I am a postgraduate student in the University of Glasgow's
+[Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/). I graduated from the University of Glasgow in 2018 with an M.A. in Psychology (with Honours of the First Class). I am currently working towards an M.Sc. in Research Methods of Psychological Science, supervised by [Professor Stephany Biello](https://www.gla.ac.uk/schools/psychology/staff/stephanybiello/). 
 
 
 
