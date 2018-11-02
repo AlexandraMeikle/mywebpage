@@ -5,7 +5,7 @@ output:
   html_document:  
     self_contained: no  
 navbar:  
-  title: "Alexandra Meikle (Postgraduate Student" 
+  title: "Alexandra Meikle (Postgraduate Student)" 
   type: inverse
   right:
     - text: "About"
