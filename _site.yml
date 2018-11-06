@@ -3,6 +3,7 @@ author: "Alexandra Meikle"
 output_dir: "docs"  
 output:  
   html_document: 
+theme: jekyll-theme-cayman
 navbar:  
   title: "Alexandra Meikle (Postgraduate Student)" 
   type: inverse
