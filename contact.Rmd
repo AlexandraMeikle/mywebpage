@@ -1,7 +1,13 @@
 <br>
 <br>
 
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+<div class="LI-profile-badge" img style="float: right; margin: 0px 0px 25px 25px;" data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="alexandra-meikle-a88160174"><a class="LI-simple-link" href='https://uk.linkedin.com/in/alexandra-meikle-a88160174?trk=profile-badge'>Alexandra Meikle</a></div>
+
+
 ## Contact Information
+
 
 Room 101<br>
 58 Hillhead Street<br>
@@ -9,3 +15,9 @@ Glasgow <br>
 G12 8QB <br>
 Telephone	+44 (0)141 330 ---- <br>
 Email 2133759m@student.gla.ac.uk
+<br>
+<br>
+<a href="https://twitter.com/_alexmeikle?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @_alexmeikle</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br>
+
+
