@@ -11,9 +11,9 @@ navbar:
       href: index.html
     - text: "Research"
       menu:
-        - text: "Current Research Interests"
+        - text: "Research Interests"
           href: current_research.html
-        - text: "Research Experience"
+        - text: "Experience"
           href: previous_research.html
         - text: "Talks and Posters"
           href: talks.html
