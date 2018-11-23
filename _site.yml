@@ -1,9 +1,10 @@
 name: "mywebpage"  
 author: "Alexandra Meikle"  
+theme: jekyll-theme-minimal
+minimal_mistakes_skin: "mint"
 output_dir: "docs"  
 output:  
   html_document: 
-theme: flatly
 navbar:  
   title: "Alexandra Meikle (Postgraduate Student)" 
   type: inverse
@@ -22,8 +23,3 @@ navbar:
           href: awards.html
     - text: "Contact Me"
       href: contact.html
-
-
-  
-      
-
